@@ -88,15 +88,11 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Análise das atividades 1 e 2;
+- [ ] Swot da empresa;
+- [ ] Canvas da empresa;
+- [x] Pesquisa inicial preenchida;
+
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
